@@ -1,0 +1,16 @@
+#shape{
+    width: 100px;
+    height: 100px;
+    background-color: aqua;
+    justify-content: center;
+}
+
+.center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    text-align: center;
+}
+
+
